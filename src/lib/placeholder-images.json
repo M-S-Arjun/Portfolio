@@ -1,0 +1,64 @@
+{
+  "placeholderImages": [
+    {
+      "id": "hero-image",
+      "description": "A modern music production setup with a keyboard and computer.",
+      "imageUrl": "https://images.unsplash.com/photo-1633933703119-5d25460ad829?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxtdXNpYyUyMHByb2R1Y3Rpb258ZW58MHx8fHwxNzY0NzE0OTI3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "music production"
+    },
+    {
+      "id": "profile-image",
+      "description": "A portrait of a person to serve as a profile picture.",
+      "imageUrl": "/images/dp.jpg",
+      "imageHint": "profile picture"
+    },
+    {
+      "id": "project-cover-1",
+      "description": "Screenshot of a Logic Pro X project for a cover song.",
+      "imageUrl": "https://images.unsplash.com/photo-1673479871012-2e00fbcce058?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxtdXNpYyUyMG1peGluZ3xlbnwwfHx8fDE3NjQ3MzY3NTZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "music mixing"
+    },
+    {
+      "id": "project-cover-2",
+      "description": "Screenshot of a Logic Pro X project for an instrumental arrangement.",
+      "imageUrl": "https://images.unsplash.com/photo-1692838952665-a7a9577fde9e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8YXVkaW8lMjB3YXZlZm9ybXxlbnwwfHx8fDE3NjQ2NzYwMzV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "audio waveform"
+    },
+    {
+      "id": "project-cover-3",
+      "description": "Screenshot of a Logic Pro X project for a keyboard cover.",
+      "imageUrl": "https://images.unsplash.com/photo-1687603926059-70c086f6c626?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxtdXNpYyUyMHNvZnR3YXJlfGVufDB8fHx8MTc2NDczNjc1Nnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "music software"
+    },
+    {
+      "id": "cert-keyboard-1",
+      "description": "Trinity College London Grade 1 Electronic Keyboard certificate.",
+      "imageUrl": "/images/grade1keyboard.jpg",
+      "imageHint": "certificate document"
+    },
+    {
+      "id": "cert-keyboard-2",
+      "description": "Trinity College London Grade 2 Electronic Keyboard certificate.",
+      "imageUrl": "/images/grade2keyboard.jpg",
+      "imageHint": "certificate document"
+    },
+    {
+      "id": "cert-keyboard-3",
+      "description": "Trinity College London Grade 3 Electronic Keyboard certificate.",
+      "imageUrl": "/images/grade3keyboard.jpg",
+      "imageHint": "certificate document"
+    },
+    {
+      "id": "cert-keyboard-4",
+      "description": "Trinity College London Grade 4 Electronic Keyboard certificate.",
+      "imageUrl": "/images/grade4keyboard.jpg",
+      "imageHint": "certificate document"
+    },
+    {
+      "id": "cert-drum-1",
+      "description": "Trinity College London Grade 1 Drum Kit certificate.",
+      "imageUrl": "/images/grade1drum.jpg",
+      "imageHint": "certificate document"
+    }
+  ]
+}
